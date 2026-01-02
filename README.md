@@ -1,4 +1,4 @@
-# COMP2017 Project 1 — Audio Editing Library in C
+# Audio Editing Library in C
 
 ## Overview
 This project is an implementation of a lightweight audio editing backend written in C.  
